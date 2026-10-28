@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+
+# Datos locales (no versionar archivos de pacientes)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
